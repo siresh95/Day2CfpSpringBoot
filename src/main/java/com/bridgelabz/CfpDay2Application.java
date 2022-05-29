@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CfpDay2Application {
 
     public static void main(String[] args) {
-        System.out.println("Hello from bridgelabz");
         SpringApplication.run(CfpDay2Application.class, args);
     }
 
